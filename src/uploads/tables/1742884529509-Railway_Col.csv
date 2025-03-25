@@ -1,0 +1,9 @@
+Transaction ID,Date of Purchase,Time of Purchase,Purchase Type,Payment Method,Railcard,Ticket Class,Ticket Type,Price,Departure Station,Arrival Destination,Date of Journey,Departure Time,Arrival Time,Actual Arrival Time,Journey Status,Reason for Delay,Refund Request
+a3e99f4d-559c-4528-9e50,2024-01-14,17:08:34,Station,Contactless,Adult,Standard,Off-Peak,20,Birmingham New Street,York,2024-01-14,18:30:00,20:15:00,20:15:00,On Time,,No
+bf4e24dd-6997-46c1-a4fb,2024-01-20,17:04:44,Station,Contactless,Adult,Standard,Off-Peak,20,Birmingham New Street,York,2024-01-20,18:30:00,20:15:00,20:15:00,On Time,,No
+557e2ea3-eae0-48d8-a63a,2024-02-03,00:04:33,Station,Contactless,Adult,First Class,Off-Peak,20,Liverpool Lime Street,Leeds,2024-02-03,22:30:00,00:00:00,00:00:00,On Time,,No
+bcb7f02a-29e4-46ce-84a2,2024-02-03,00:12:55,Station,Contactless,Adult,First Class,Off-Peak,20,Liverpool Lime Street,Leeds,2024-02-03,22:30:00,00:00:00,00:00:00,On Time,,No
+7f3ee0ff-9858-419e-87b6,2024-03-11,17:38:09,Online,Contactless,Adult,First Class,Off-Peak,20,Liverpool Lime Street,Leeds,2024-03-11,19:00:00,20:30:00,20:30:00,On Time,,No
+e61ab024-8c68-4d36-8b30,2024-03-17,17:06:21,Station,Contactless,Adult,Standard,Off-Peak,20,Birmingham New Street,York,2024-03-17,18:30:00,20:15:00,20:15:00,On Time,,No
+97053807-700a-4444-93c6,2024-04-01,00:09:41,Station,Contactless,Adult,First Class,Off-Peak,20,Liverpool Lime Street,Leeds,2024-04-01,22:30:00,00:00:00,00:00:00,On Time,,No
+20a9f3b5-6120-4e67-b102,2024-04-27,17:05:56,Station,Contactless,Adult,Standard,Off-Peak,20,Birmingham New Street,York,2024-04-27,18:30:00,20:15:00,20:15:00,On Time,,No
