@@ -122,10 +122,7 @@ We welcome contributions! Follow these steps to contribute:
    ```
 5. **Open a pull request**.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact techguru8237@gmail.com.
