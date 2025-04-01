@@ -1,5 +1,5 @@
 {
-  "name": "hexapin-api",
+  "name": "hexapink-api",
   "version": "1.0.0",
   "description": "This is a Node.js and Express server for the Hexapink application. It provides user authentication, endpoint authentication, and various API routes for managing users and tables.",
   "main": "app.js",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techguru8237/hexapink-backend.git"
+    "url": "git+https://github.com/techguru8237/hexapink-api-ts.git"
   },
   "keywords": [
-    "hexapin",
+    "hexapink-api",
     "node.js",
     "typescript",
     "express",
@@ -24,9 +24,9 @@
   "author": "Takatao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techguru8237/hexapink-backend/issues"
+    "url": "https://github.com/techguru8237/hexapink-api-ts/issues"
   },
-  "homepage": "https://github.com/techguru8237/hexapink-backend#readme",
+  "homepage": "https://github.com/techguru8237/hexapink-api-ts#readme",
   "devDependencies": {
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.1",
